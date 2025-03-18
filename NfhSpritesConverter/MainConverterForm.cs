@@ -1,14 +1,7 @@
-﻿using System;
+﻿using DarkUI.Forms;
+using System;
 using System.IO;
 using System.Windows.Forms;
-
-
-using DarkUI.Collections;
-using DarkUI.Config;
-using DarkUI.Controls;
-using DarkUI.Docking;
-using DarkUI.Forms;
-using DarkUI.Renderers;
 
 namespace NfhSpritesConverter
 {
@@ -34,7 +27,7 @@ namespace NfhSpritesConverter
         public MainConverterForm()
         {
             InitializeComponent();
-            
+
         }
 
         private void buttonConvertPngToTga_Click(object sender, EventArgs e)

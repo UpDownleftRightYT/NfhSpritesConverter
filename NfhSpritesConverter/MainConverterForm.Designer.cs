@@ -56,7 +56,7 @@ namespace NfhSpritesConverter
             listBoxResults.Location = new System.Drawing.Point(500, 60);
             listBoxResults.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             listBoxResults.Name = "listBoxResults";
-            listBoxResults.Size = new System.Drawing.Size(546, 437);
+            listBoxResults.Size = new System.Drawing.Size(578, 497);
             listBoxResults.TabIndex = 0;
             // 
             // textBoxFolderPathPng
@@ -184,7 +184,7 @@ namespace NfhSpritesConverter
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1112, 578);
+            ClientSize = new System.Drawing.Size(1176, 734);
             Controls.Add(groupBox1);
             Controls.Add(label2);
             Controls.Add(label1);
